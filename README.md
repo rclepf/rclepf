@@ -1,6 +1,16 @@
 ## Oi, eu sou o Rodolfo.
 
-Atualmente estudando e em transição de carreira.
+Profissional com mais de 10 anos de experiência atuando em empresas nacionais e multinacionais de médio e grande porte em transição de carreira para a área Tech. Sólidos conhecimentos em toda a rotina de planejamento financeiro, acompanhamento de indicadores, análise e gestão de contratos com geração de relatórios e acompanhamento de cronogramas. 
+
+Atualmente trabalhando como desenvolvedor/programador.
+
+## Trabalhando com as seguintes tecnologias:
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"> 
+  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">  
+  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">     
+</div>
 
 ## Estudando as seguintes tecnologias:
 </div>
