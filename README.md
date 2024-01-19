@@ -27,14 +27,6 @@ Atualmente trabalhando como desenvolvedor/programador.
   <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">     
 </div>
 
-##
-
-<div align="center">
-  <a href="https://github.com/rclepf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rclepf&show_icons=true&theme=minimal&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclepf&layout=compact&langs_count=7&theme=minimal"/>
-</div>
-
   
 ## Redes Sociais:
    <a href="https://instagram.com/rclepf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
