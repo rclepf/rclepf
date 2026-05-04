@@ -36,11 +36,13 @@ No mundo 3D, utilizo o **Unity** para transformar ideias em realidade, explorand
 
 ---
 
-### 📊 My Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rclepf&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclepf&layout=compact&theme=nord&langs_count=6" />
-</div>
+### 🛠 Minhas Tecnologias
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
