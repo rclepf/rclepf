@@ -37,8 +37,10 @@ No mundo 3D, utilizo o **Unity** para transformar ideias em realidade, explorand
 ---
 
 ### 📊 My Activity
-![Stats de Rodolfo](https://github-readme-stats.vercel.app/api?username=rclepf&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rclepf&layout=compact&theme=nord)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rclepf&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclepf&layout=compact&theme=nord&langs_count=6" />
+</div>
 
 ---
 
