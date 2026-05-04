@@ -1,35 +1,46 @@
-## Oi, eu sou o Rodolfo.
+# Olá, eu sou o Rodolfo Clepf 👋
 
-Profissional com mais de 10 anos de experiência atuando em empresas nacionais e multinacionais de médio e grande porte em transição de carreira para a área Tech. Sólidos conhecimentos em toda a rotina de planejamento financeiro, acompanhamento de indicadores, análise e gestão de contratos com geração de relatórios e acompanhamento de cronogramas. 
+Professor de TI apaixonado por compartilhar conhecimento e desenvolvedor focado em entregar soluções robustas e experiências imersivas.
 
-Atualmente trabalhando como desenvolvedor/programador.
+---
 
-## Trabalhando com as seguintes tecnologias:
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"> 
-  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">  
-  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 👨‍🏫 Educação & Mentoria
+Atualmente, foco minhas energias no ensino de **Kotlin** e **Desenvolvimento de Jogos 3D**, ajudando estudantes a saírem do zero até a criação de seus próprios projetos.
 
-## Estudando as seguintes tecnologias:
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"> 
-  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">     
-</div>
+- 📘 Professor de TI especializado em linguagens modernas e lógica de programação.
+- 🏗️ Mentor em arquitetura de software e boas práticas.
 
-  
-## Redes Sociais:
-   <a href="https://instagram.com/rclepf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rodolfoclepf" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rclepf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodolfoclepf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+### 💻 Stack de Desenvolvimento
+Minha base sólida em desenvolvimento web me permite construir aplicações completas e escaláveis:
+
+- **Backend:** PHP, Laravel, Node.js.
+- **Frontend:** Vue.js, React, TypeScript.
+- **Mobile:** Kotlin.
+
+---
+
+### 🎮 Unity & Game Development
+No mundo 3D, utilizo o **Unity** para transformar ideias em realidade, explorando:
+- C# Scripting de alta performance.
+- Level Design e integração de assets 3D.
+- Mecânicas de jogo e lógica de física.
+
+---
+
+### 🛠️ No meu GitHub você encontra:
+*   **Projetos Didáticos:** Exemplos claros para estudantes de Kotlin, Portugol, Javascript, Java e outras linguagens.
+*   **Aplicações Web:** Projetos reais utilizando o ecossistema Laravel + Vue.js.
+*   **Gists e Snippets:** Soluções rápidas para problemas comuns de lógica.
+
+---
+
+### 📊 My Activity
+![Stats de Rodolfo](https://github-readme-stats.vercel.app/api?username=rclepf&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rclepf&layout=compact&theme=nord)
+
+---
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/rodolfoclepf/) | [E-mail](mailto:rclepf@gmail.com)
