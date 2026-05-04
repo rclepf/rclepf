@@ -36,7 +36,7 @@ No mundo 3D, utilizo o **Unity** para transformar ideias em realidade, explorand
 
 ---
 
-### 🛠 Minhas Tecnologias
+### 📊 Minhas Tecnologias
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
